@@ -13,7 +13,7 @@ A partir do terminal:
     
     Windows
     
-        gradlew clean buil 
+        gradlew clean build
 
 Você também pode clonar e abrir pelo Intellij.
 
